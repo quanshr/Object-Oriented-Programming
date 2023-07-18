@@ -1,0 +1,21 @@
+{
+	"java.home" : "D:\\Program Files\\Java\\JDK8",
+	"testPath" : "D:\\LTT\\repository\\OO\\homework_2",
+	"projects" : {
+		"LTT" : {
+			"src" : "src",
+			"MainClass" : "code.Main"
+		},
+		"qshr" : {
+			"src" : "fgo\\oohomework_2023_21371064_hw_2",
+			"MainClass" : "Mainclass"
+		}
+	},
+	"generator" : "D:\\LTT\\repository\\OO\\oo_auto_test_1\\core\\hw2.jar",
+	"output" : "output",
+	"input" : "input",
+	"temp" : "temp", 
+	"display" : {
+		"hide" : false
+	}
+}

@@ -1,0 +1,11 @@
+Test begin:
+Test .\input\4.in:
+Accepted
+Test .\input\3.in:
+Accepted
+Test .\input\2.in:
+Accepted
+Test .\input\5.in:
+Accepted
+Test .\input\1.in:
+Accepted
